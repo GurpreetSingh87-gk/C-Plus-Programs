@@ -8,7 +8,7 @@ problem-solving skills.
 ## 📚 Topics Covered
 
 
- - **C++ Concepts**
+**C++ Concepts**
  
   - **Introduction** (Arithmetic Operators)
   - **Conditional Statements** (If, If-Else, If-Else If, Nested If-Else)
@@ -21,7 +21,7 @@ problem-solving skills.
   - **Pointer** (Types of Pointers)
   - **Operator Overloading** (Functions Overloading, Object Pointer)
 
-- **DSA Concepts**
+**DSA Concepts**
 
   - **Linear Data Structure** (Array, Linked List, Stack, Queue)
   - **Non-Linear Data Structure** (Tree and Graph)
