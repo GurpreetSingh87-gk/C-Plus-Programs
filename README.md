@@ -46,7 +46,7 @@ This repository aims to strengthen problem-solving skills by implementing C++ pr
 
 ## ⚙️ How to Run
 1. Download or clone this repository.  
-2. Open any `.py` file in your preferred IDE (VS Code, Dev-C++).  
+2. Open any `.cpp` file in your preferred IDE (VS Code, Dev-C++).  
 3. Run the script using:  
    ```bash
    c++ filename.cpp
