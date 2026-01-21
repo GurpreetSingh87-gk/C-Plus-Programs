@@ -7,7 +7,7 @@ problem-solving skills.
 
 ## 📚 Topics Covered
 
--> **C++ Concepts**
+ **C++ Concepts**
 - **Introduction** (Arithmetic Operators)
 
 
