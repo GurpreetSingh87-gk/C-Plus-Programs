@@ -5,10 +5,10 @@ problem-solving skills.
 
 ---
 
-## 📚 Topics Covered
+## 📝 Topics Covered
 
 
-**C++ Concepts**
+### **C++ Concepts**
  
   - **Introduction** (Arithmetic Operators)
     
@@ -30,7 +30,7 @@ problem-solving skills.
     
   - **Operator Overloading** (Functions Overloading, Object Pointer)
 
-**DSA Concepts**
+### **DSA Concepts**
 
   - **Linear Data Structure** (Array, Linked List, Stack, Queue)
     
